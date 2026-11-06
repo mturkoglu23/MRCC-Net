@@ -1,0 +1,14 @@
+# Python 3.10; versions used in the experiments
+torch==2.11.0
+torchvision==0.26.0
+transformers==5.20.2
+ultralytics==8.4.197
+scikit-learn==1.7.2
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.15.3
+joblib==1.6.0
+opencv-python==5.0.0.93
+decord==0.6.0
+av==17.1.0
+matplotlib==3.10.9

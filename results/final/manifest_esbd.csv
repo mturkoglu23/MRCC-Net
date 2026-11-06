@@ -1,0 +1,196 @@
+clip,label,source_id,group,eval_unit,youtube_id,annotated_intervals_s,fold_r0,fold_r1,fold_r2
+v_ArmFlapping_27_part1.mp4,ArmFlapping,ArmFlapping_27,ArmFlapping_27,ArmFlapping_27|ArmFlapping,I6KaPbbJZrA,6-15,3,0,0
+v_ArmFlapping_28_part1.mp4,ArmFlapping,ArmFlapping_28,ArmFlapping_28,ArmFlapping_28|ArmFlapping,KPuLA5LlVjg,0-7/16-20/32-37,3,3,2
+v_ArmFlapping_28_part2.mp4,ArmFlapping,ArmFlapping_28,ArmFlapping_28,ArmFlapping_28|ArmFlapping,KPuLA5LlVjg,0-7/16-20/32-37,3,3,2
+v_ArmFlapping_28_part3.mp4,ArmFlapping,ArmFlapping_28,ArmFlapping_28,ArmFlapping_28|ArmFlapping,KPuLA5LlVjg,0-7/16-20/32-37,3,3,2
+v_ArmFlapping_29_part1.mp4,ArmFlapping,ArmFlapping_29,ArmFlapping_29,ArmFlapping_29|ArmFlapping,LvyHZZpL4Ww,10-16,0,2,0
+v_ArmFlapping_30_part1.mp4,ArmFlapping,ArmFlapping_30,ArmFlapping_30,ArmFlapping_30|ArmFlapping,qYeYiDxFcB0,5.0-5.19,2,1,4
+v_ArmFlapping_31_part1.mp4,ArmFlapping,ArmFlapping_31,ArmFlapping_31,ArmFlapping_31|ArmFlapping,UiFVub-8FUE,6-9,0,0,1
+v_ArmFlapping_32_part1.mp4,ArmFlapping,ArmFlapping_32,ArmFlapping_32,ArmFlapping_32|ArmFlapping,mPvmDvReyR8,42-51,2,2,0
+v_ArmFlapping_33_part1.mp4,ArmFlapping,ArmFlapping_33,ArmFlapping_33,ArmFlapping_33|ArmFlapping,8Mm02aD6Pf0,55-1.06/1.25-1.30,1,3,1
+v_ArmFlapping_33_part2.mp4,ArmFlapping,ArmFlapping_33,ArmFlapping_33,ArmFlapping_33|ArmFlapping,8Mm02aD6Pf0,55-1.06/1.25-1.30,1,3,1
+v_ArmFlapping_34_part1.mp4,ArmFlapping,ArmFlapping_34,ArmFlapping_34,ArmFlapping_34|ArmFlapping,_yzU7MU2wIE,0-11,3,1,4
+v_ArmFlapping_35_part1.mp4,ArmFlapping,ArmFlapping_35,ArmFlapping_35,ArmFlapping_35|ArmFlapping,_M8YkVVb5dg,0-8,1,1,2
+v_ArmFlapping_36_part1.mp4,ArmFlapping,ArmFlapping_36,ArmFlapping_36,ArmFlapping_36|ArmFlapping,Z9tovOUMFMs,0-14/1.30-1.45,4,2,0
+v_ArmFlapping_36_part2.mp4,ArmFlapping,ArmFlapping_36,ArmFlapping_36,ArmFlapping_36|ArmFlapping,Z9tovOUMFMs,0-14/1.30-1.45,4,2,0
+v_ArmFlapping_37_part1.mp4,ArmFlapping,ArmFlapping_37,ArmFlapping_37,ArmFlapping_37|ArmFlapping,lfs4Hc36ajY,0-3,3,4,3
+v_ArmFlapping_40_part1.mp4,ArmFlapping,ArmFlapping_40,ArmFlapping_40,ArmFlapping_40|ArmFlapping,iJFOiMjo3jQ,14-28,0,1,4
+v_ArmFlapping_41_part1.mp4,ArmFlapping,ArmFlapping_41,ArmFlapping_37,ArmFlapping_37|ArmFlapping,pjZ4lKRKfDQ,13-17,3,4,3
+v_ArmFlapping_44_part1.mp4,ArmFlapping,ArmFlapping_44,ArmFlapping_44,ArmFlapping_44|ArmFlapping,bbBtC7vAyow,1.12-1.19/ 2.06-2.10,4,4,1
+v_ArmFlapping_44_part2.mp4,ArmFlapping,ArmFlapping_44,ArmFlapping_44,ArmFlapping_44|ArmFlapping,bbBtC7vAyow,1.12-1.19/ 2.06-2.10,4,4,1
+v_ArmFlapping_45_part1.mp4,ArmFlapping,ArmFlapping_45,ArmFlapping_45,ArmFlapping_45|ArmFlapping,hbiKingfbLY,7-11/25-35,2,3,1
+v_ArmFlapping_45_part2.mp4,ArmFlapping,ArmFlapping_45,ArmFlapping_45,ArmFlapping_45|ArmFlapping,hbiKingfbLY,7-11/25-35,2,3,1
+v_ArmFlapping_47_part1.mp4,ArmFlapping,ArmFlapping_47,ArmFlapping_47,ArmFlapping_47|ArmFlapping,ITJ2QvAl1GY,11-13,1,4,2
+v_ArmFlapping_48_part1.mp4,ArmFlapping,ArmFlapping_48,ArmFlapping_48,ArmFlapping_48|ArmFlapping,MT5ryL1iwA4,3-7,0,2,1
+v_ArmFlapping_49_part1.mp4,ArmFlapping,ArmFlapping_49,ArmFlapping_49,ArmFlapping_49|ArmFlapping,eKQ8MBb_sNU,0-3,4,0,1
+v_ArmFlapping_50_part1.mp4,ArmFlapping,ArmFlapping_50,ArmFlapping_50,ArmFlapping_50|ArmFlapping,lMeaeCHOkLk,1.28-1.35,1,0,1
+v_ArmFlapping_51_part1.mp4,ArmFlapping,ArmFlapping_51,ArmFlapping_51,ArmFlapping_51|ArmFlapping,02mvgUiO-eU,16-21,4,3,0
+v_ArmFlapping_52_part1.mp4,ArmFlapping,ArmFlapping_52,ArmFlapping_52,ArmFlapping_52|ArmFlapping,iIgP0qDaYso,1-12,2,1,4
+v_ArmFlapping_53_part1.mp4,ArmFlapping,ArmFlapping_53,ArmFlapping_53,ArmFlapping_53|ArmFlapping,okxbI5r-0aI,1-3,2,4,3
+v_ArmFlapping_54_part1.mp4,ArmFlapping,ArmFlapping_54,ArmFlapping_54,ArmFlapping_54|ArmFlapping,R_gZqQy_Ae4,18-21/27-35,0,2,1
+v_ArmFlapping_54_part2.mp4,ArmFlapping,ArmFlapping_54,ArmFlapping_54,ArmFlapping_54|ArmFlapping,R_gZqQy_Ae4,18-21/27-35,0,2,1
+v_ArmFlapping_55_part1.mp4,ArmFlapping,ArmFlapping_55,ArmFlapping_55,ArmFlapping_55|ArmFlapping,7lgAK1z-Scs,3-13,1,2,3
+v_ArmFlapping_57_part1.mp4,ArmFlapping,ArmFlapping_57,ArmFlapping_57,ArmFlapping_57|ArmFlapping,RM77rVRvdsQ,5-8,0,3,3
+v_ArmFlapping_59_part1_slice1.mp4,ArmFlapping,ArmFlapping_59,ArmFlapping_59,ArmFlapping_59|ArmFlapping,y_faqd_9atU,6.27-6.50,0,3,4
+v_ArmFlapping_59_part1_slice2.mp4,ArmFlapping,ArmFlapping_59,ArmFlapping_59,ArmFlapping_59|ArmFlapping,y_faqd_9atU,6.27-6.50,0,3,4
+v_ArmFlapping_60_part1.mp4,ArmFlapping,ArmFlapping_60,ArmFlapping_60,ArmFlapping_60|ArmFlapping,Pb5GbCMSCd8,1-5,0,0,4
+v_HandAction_01_2_part1.mp4,HandAction,HandAction_01,HandAction_01,HandAction_01|HandAction,0g51c2BCqu8,0-10 / 20-46 / 50-1.30/ 1.38-1.40/1.46-2.33,3,1,2
+v_HandAction_01_2_part2_slice1.mp4,HandAction,HandAction_01,HandAction_01,HandAction_01|HandAction,0g51c2BCqu8,0-10 / 20-46 / 50-1.30/ 1.38-1.40/1.46-2.33,3,1,2
+v_HandAction_01_2_part2_slice2.mp4,HandAction,HandAction_01,HandAction_01,HandAction_01|HandAction,0g51c2BCqu8,0-10 / 20-46 / 50-1.30/ 1.38-1.40/1.46-2.33,3,1,2
+v_HandAction_01_2_part3_slice1.mp4,HandAction,HandAction_01,HandAction_01,HandAction_01|HandAction,0g51c2BCqu8,0-10 / 20-46 / 50-1.30/ 1.38-1.40/1.46-2.33,3,1,2
+v_HandAction_01_2_part3_slice2.mp4,HandAction,HandAction_01,HandAction_01,HandAction_01|HandAction,0g51c2BCqu8,0-10 / 20-46 / 50-1.30/ 1.38-1.40/1.46-2.33,3,1,2
+v_HandAction_01_2_part3_slice3.mp4,HandAction,HandAction_01,HandAction_01,HandAction_01|HandAction,0g51c2BCqu8,0-10 / 20-46 / 50-1.30/ 1.38-1.40/1.46-2.33,3,1,2
+v_HandAction_01_2_part3_slice4.mp4,HandAction,HandAction_01,HandAction_01,HandAction_01|HandAction,0g51c2BCqu8,0-10 / 20-46 / 50-1.30/ 1.38-1.40/1.46-2.33,3,1,2
+v_HandAction_01_2_part4.mp4,HandAction,HandAction_01,HandAction_01,HandAction_01|HandAction,0g51c2BCqu8,0-10 / 20-46 / 50-1.30/ 1.38-1.40/1.46-2.33,3,1,2
+v_HandAction_01_2_part5_slice1.mp4,HandAction,HandAction_01,HandAction_01,HandAction_01|HandAction,0g51c2BCqu8,0-10 / 20-46 / 50-1.30/ 1.38-1.40/1.46-2.33,3,1,2
+v_HandAction_01_2_part5_slice2.mp4,HandAction,HandAction_01,HandAction_01,HandAction_01|HandAction,0g51c2BCqu8,0-10 / 20-46 / 50-1.30/ 1.38-1.40/1.46-2.33,3,1,2
+v_HandAction_01_2_part5_slice3.mp4,HandAction,HandAction_01,HandAction_01,HandAction_01|HandAction,0g51c2BCqu8,0-10 / 20-46 / 50-1.30/ 1.38-1.40/1.46-2.33,3,1,2
+v_HandAction_01_2_part5_slice4.mp4,HandAction,HandAction_01,HandAction_01,HandAction_01|HandAction,0g51c2BCqu8,0-10 / 20-46 / 50-1.30/ 1.38-1.40/1.46-2.33,3,1,2
+v_HandAction_02_0_part1_slice1.mp4,HandAction,HandAction_02,HandAction_02,HandAction_02|HandAction,dxTGnfkSiZI,18-38 / 39-50 /52-59,3,0,0
+v_HandAction_02_0_part1_slice2.mp4,HandAction,HandAction_02,HandAction_02,HandAction_02|HandAction,dxTGnfkSiZI,18-38 / 39-50 /52-59,3,0,0
+v_HandAction_02_0_part2.mp4,HandAction,HandAction_02,HandAction_02,HandAction_02|HandAction,dxTGnfkSiZI,18-38 / 39-50 /52-59,3,0,0
+v_HandAction_02_0_part3.mp4,HandAction,HandAction_02,HandAction_02,HandAction_02|HandAction,dxTGnfkSiZI,18-38 / 39-50 /52-59,3,0,0
+v_HandAction_02_1_part1_slice1.mp4,HandAction,HandAction_02,HandAction_02,HandAction_02|HandAction,dxTGnfkSiZI,18-38 / 39-50 /52-59,3,0,0
+v_HandAction_02_1_part1_slice2.mp4,HandAction,HandAction_02,HandAction_02,HandAction_02|HandAction,dxTGnfkSiZI,18-38 / 39-50 /52-59,3,0,0
+v_HandAction_02_1_part2.mp4,HandAction,HandAction_02,HandAction_02,HandAction_02|HandAction,dxTGnfkSiZI,18-38 / 39-50 /52-59,3,0,0
+v_HandAction_02_1_part3.mp4,HandAction,HandAction_02,HandAction_02,HandAction_02|HandAction,dxTGnfkSiZI,18-38 / 39-50 /52-59,3,0,0
+v_HandAction_03_part1_slice1.mp4,HandAction,HandAction_03,HandAction_03,HandAction_03|HandAction,DaOMBKX_NX8,0-1.23 / 1.25-2.56,4,4,3
+v_HandAction_03_part1_slice2.mp4,HandAction,HandAction_03,HandAction_03,HandAction_03|HandAction,DaOMBKX_NX8,0-1.23 / 1.25-2.56,4,4,3
+v_HandAction_03_part1_slice3.mp4,HandAction,HandAction_03,HandAction_03,HandAction_03|HandAction,DaOMBKX_NX8,0-1.23 / 1.25-2.56,4,4,3
+v_HandAction_03_part1_slice4.mp4,HandAction,HandAction_03,HandAction_03,HandAction_03|HandAction,DaOMBKX_NX8,0-1.23 / 1.25-2.56,4,4,3
+v_HandAction_03_part1_slice5.mp4,HandAction,HandAction_03,HandAction_03,HandAction_03|HandAction,DaOMBKX_NX8,0-1.23 / 1.25-2.56,4,4,3
+v_HandAction_03_part1_slice6.mp4,HandAction,HandAction_03,HandAction_03,HandAction_03|HandAction,DaOMBKX_NX8,0-1.23 / 1.25-2.56,4,4,3
+v_HandAction_03_part1_slice7.mp4,HandAction,HandAction_03,HandAction_03,HandAction_03|HandAction,DaOMBKX_NX8,0-1.23 / 1.25-2.56,4,4,3
+v_HandAction_03_part1_slice8.mp4,HandAction,HandAction_03,HandAction_03,HandAction_03|HandAction,DaOMBKX_NX8,0-1.23 / 1.25-2.56,4,4,3
+v_HandAction_03_part2_slice1.mp4,HandAction,HandAction_03,HandAction_03,HandAction_03|HandAction,DaOMBKX_NX8,0-1.23 / 1.25-2.56,4,4,3
+v_HandAction_03_part2_slice2.mp4,HandAction,HandAction_03,HandAction_03,HandAction_03|HandAction,DaOMBKX_NX8,0-1.23 / 1.25-2.56,4,4,3
+v_HandAction_03_part2_slice3.mp4,HandAction,HandAction_03,HandAction_03,HandAction_03|HandAction,DaOMBKX_NX8,0-1.23 / 1.25-2.56,4,4,3
+v_HandAction_03_part2_slice4.mp4,HandAction,HandAction_03,HandAction_03,HandAction_03|HandAction,DaOMBKX_NX8,0-1.23 / 1.25-2.56,4,4,3
+v_HandAction_03_part2_slice5.mp4,HandAction,HandAction_03,HandAction_03,HandAction_03|HandAction,DaOMBKX_NX8,0-1.23 / 1.25-2.56,4,4,3
+v_HandAction_03_part2_slice6.mp4,HandAction,HandAction_03,HandAction_03,HandAction_03|HandAction,DaOMBKX_NX8,0-1.23 / 1.25-2.56,4,4,3
+v_HandAction_03_part2_slice7.mp4,HandAction,HandAction_03,HandAction_03,HandAction_03|HandAction,DaOMBKX_NX8,0-1.23 / 1.25-2.56,4,4,3
+v_HandAction_03_part2_slice8.mp4,HandAction,HandAction_03,HandAction_03,HandAction_03|HandAction,DaOMBKX_NX8,0-1.23 / 1.25-2.56,4,4,3
+v_HandAction_03_part2_slice9.mp4,HandAction,HandAction_03,HandAction_03,HandAction_03|HandAction,DaOMBKX_NX8,0-1.23 / 1.25-2.56,4,4,3
+v_HandAction_04_part1.mp4,HandAction,HandAction_04,HandAction_04,HandAction_04|HandAction,4FQLwnIQ9Qg,3.14-3.30,4,1,2
+v_HandAction_05_1_part1_slice1.mp4,HandAction,HandAction_05,ArmFlapping_59,ArmFlapping_59|HandAction,y_faqd_9atU,20-48 / 1.55-1.57 / 2.04-2.11/2.37-2.40/2.44-2.48,0,3,4
+v_HandAction_05_1_part1_slice2.mp4,HandAction,HandAction_05,ArmFlapping_59,ArmFlapping_59|HandAction,y_faqd_9atU,20-48 / 1.55-1.57 / 2.04-2.11/2.37-2.40/2.44-2.48,0,3,4
+v_HandAction_05_1_part2.mp4,HandAction,HandAction_05,ArmFlapping_59,ArmFlapping_59|HandAction,y_faqd_9atU,20-48 / 1.55-1.57 / 2.04-2.11/2.37-2.40/2.44-2.48,0,3,4
+v_HandAction_05_1_part3.mp4,HandAction,HandAction_05,ArmFlapping_59,ArmFlapping_59|HandAction,y_faqd_9atU,20-48 / 1.55-1.57 / 2.04-2.11/2.37-2.40/2.44-2.48,0,3,4
+v_HandAction_05_1_part4.mp4,HandAction,HandAction_05,ArmFlapping_59,ArmFlapping_59|HandAction,y_faqd_9atU,20-48 / 1.55-1.57 / 2.04-2.11/2.37-2.40/2.44-2.48,0,3,4
+v_HandAction_05_1_part5.mp4,HandAction,HandAction_05,ArmFlapping_59,ArmFlapping_59|HandAction,y_faqd_9atU,20-48 / 1.55-1.57 / 2.04-2.11/2.37-2.40/2.44-2.48,0,3,4
+v_HandAction_06_part1_slice1.mp4,HandAction,HandAction_06,HandAction_06,HandAction_06|HandAction,PxH-Vubdzus,5-50,1,1,1
+v_HandAction_06_part1_slice2.mp4,HandAction,HandAction_06,HandAction_06,HandAction_06|HandAction,PxH-Vubdzus,5-50,1,1,1
+v_HandAction_06_part1_slice3.mp4,HandAction,HandAction_06,HandAction_06,HandAction_06|HandAction,PxH-Vubdzus,5-50,1,1,1
+v_HandAction_06_part1_slice4.mp4,HandAction,HandAction_06,HandAction_06,HandAction_06|HandAction,PxH-Vubdzus,5-50,1,1,1
+v_HandAction_07_part1.mp4,HandAction,HandAction_07,HandAction_07,HandAction_07|HandAction,cGgz9LDnWbo,37-41,2,3,1
+v_HandAction_09_part1.mp4,HandAction,HandAction_09,HandAction_09,HandAction_09|HandAction,yqYOcjB88Ag,4-9,0,0,0
+v_HandAction_10_part1.mp4,HandAction,HandAction_10,HandAction_10,HandAction_10|HandAction,hIWUbXvvhO0,5-15,0,2,3
+v_HandAction_11_part1.mp4,HandAction,HandAction_11,HandAction_11,HandAction_11|HandAction,rU9jz3AtYFs,0-15,3,0,0
+v_HandAction_12_part1.mp4,HandAction,HandAction_12,HandAction_12,HandAction_12|HandAction,4p9XrwKJkxc,0-6,4,0,1
+v_HeadBanging_26_part1.mp4,HeadBanging,HeadBanging_26,HeadBanging_26,HeadBanging_26|HeadBanging,smiKAMYjPQ4,0-5,4,3,3
+v_HeadBanging_27_part1.mp4,HeadBanging,HeadBanging_27,HeadBanging_27,HeadBanging_27|HeadBanging,wX4j6MG794Q,4.0-4.12,4,4,2
+v_HeadBanging_28_part1.mp4,HeadBanging,HeadBanging_28,HeadBanging_28,HeadBanging_28|HeadBanging,Exvm_w4Kx0I,0-12,1,2,3
+v_HeadBanging_31_0_part1.mp4,HeadBanging,HeadBanging_31,HeadBanging_31,HeadBanging_31|HeadBanging,598auS-AQik,17-20,1,0,2
+v_HeadBanging_33_part1.mp4,HeadBanging,HeadBanging_33,HeadBanging_33,HeadBanging_33|HeadBanging,nMv4ojThFA4,4-20,0,4,4
+v_HeadBanging_34_part1.mp4,HeadBanging,HeadBanging_34,HeadBanging_34,HeadBanging_34|HeadBanging,GF-3T1t1mAo,0-4,2,3,3
+v_HeadBanging_36_part1.mp4,HeadBanging,HeadBanging_36,HeadBanging_36,HeadBanging_36|HeadBanging,psovZFdqmpU,13-25,1,1,4
+v_HeadBanging_38_1_part1.mp4,HeadBanging,HeadBanging_38,HeadBanging_38,HeadBanging_38|HeadBanging,h3DpqzWby8w,3.30-3.40,3,1,2
+v_HeadBanging_39_part1.mp4,HeadBanging,HeadBanging_39,HeadBanging_39,HeadBanging_39|HeadBanging,0norlGs7rUw,1.13-1.17,2,3,4
+v_HeadBanging_42_part1.mp4,HeadBanging,HeadBanging_42,HeadBanging_42,HeadBanging_42|HeadBanging,yEK43RdkN6o,27-33,1,0,0
+v_HeadBanging_45_part1.mp4,HeadBanging,HeadBanging_45,HeadBanging_45,HeadBanging_45|HeadBanging,_86EbprAhR0,1.30-1.45,3,4,3
+v_HeadBanging_46_part1.mp4,HeadBanging,HeadBanging_46,HeadBanging_46,HeadBanging_46|HeadBanging,BcuZ3C9Q3Jg,0-17/19-42,4,3,3
+v_HeadBanging_46_part2_slice1.mp4,HeadBanging,HeadBanging_46,HeadBanging_46,HeadBanging_46|HeadBanging,BcuZ3C9Q3Jg,0-17/19-42,4,3,3
+v_HeadBanging_46_part2_slice2.mp4,HeadBanging,HeadBanging_46,HeadBanging_46,HeadBanging_46|HeadBanging,BcuZ3C9Q3Jg,0-17/19-42,4,3,3
+v_HeadBanging_47_1_part1.mp4,HeadBanging,HeadBanging_47,HeadBanging_46,HeadBanging_46|HeadBanging,BcuZ3C9Q3Jg,0-17/19-42,4,3,3
+v_HeadBanging_47_1_part2_slice1.mp4,HeadBanging,HeadBanging_47,HeadBanging_46,HeadBanging_46|HeadBanging,BcuZ3C9Q3Jg,0-17/19-42,4,3,3
+v_HeadBanging_47_1_part2_slice2.mp4,HeadBanging,HeadBanging_47,HeadBanging_46,HeadBanging_46|HeadBanging,BcuZ3C9Q3Jg,0-17/19-42,4,3,3
+v_HeadBanging_47_2_part1.mp4,HeadBanging,HeadBanging_47,HeadBanging_46,HeadBanging_46|HeadBanging,L6yPncK6pQA,5-9/10-12/13-16/17-20/29-35/47-51/52-55,4,3,3
+v_HeadBanging_47_2_part2.mp4,HeadBanging,HeadBanging_47,HeadBanging_46,HeadBanging_46|HeadBanging,L6yPncK6pQA,5-9/10-12/13-16/17-20/29-35/47-51/52-55,4,3,3
+v_HeadBanging_47_2_part3.mp4,HeadBanging,HeadBanging_47,HeadBanging_46,HeadBanging_46|HeadBanging,L6yPncK6pQA,5-9/10-12/13-16/17-20/29-35/47-51/52-55,4,3,3
+v_HeadBanging_47_2_part4.mp4,HeadBanging,HeadBanging_47,HeadBanging_46,HeadBanging_46|HeadBanging,L6yPncK6pQA,5-9/10-12/13-16/17-20/29-35/47-51/52-55,4,3,3
+v_HeadBanging_47_2_part5.mp4,HeadBanging,HeadBanging_47,HeadBanging_46,HeadBanging_46|HeadBanging,L6yPncK6pQA,5-9/10-12/13-16/17-20/29-35/47-51/52-55,4,3,3
+v_HeadBanging_47_2_part6.mp4,HeadBanging,HeadBanging_47,HeadBanging_46,HeadBanging_46|HeadBanging,L6yPncK6pQA,5-9/10-12/13-16/17-20/29-35/47-51/52-55,4,3,3
+v_HeadBanging_47_2_part7.mp4,HeadBanging,HeadBanging_47,HeadBanging_46,HeadBanging_46|HeadBanging,L6yPncK6pQA,5-9/10-12/13-16/17-20/29-35/47-51/52-55,4,3,3
+v_HeadBanging_48_part1.mp4,HeadBanging,HeadBanging_48,HeadBanging_48,HeadBanging_48|HeadBanging,dDv7KyeWKdg,18-33,3,1,0
+v_Spinning_28_part1_slice1.mp4,Spinning,Spinning_28,Spinning_28,Spinning_28|Spinning,WHG4dXC8BfI,0-26,2,1,2
+v_Spinning_28_part1_slice2.mp4,Spinning,Spinning_28,Spinning_28,Spinning_28|Spinning,WHG4dXC8BfI,0-26,2,1,2
+v_Spinning_29_part1.mp4,Spinning,Spinning_29,Spinning_29,Spinning_29|Spinning,8R1MfXoI3mo,0-6/14-21/28-43/1.10-1.18,0,4,1
+v_Spinning_29_part2.mp4,Spinning,Spinning_29,Spinning_29,Spinning_29|Spinning,8R1MfXoI3mo,0-6/14-21/28-43/1.10-1.18,0,4,1
+v_Spinning_29_part3.mp4,Spinning,Spinning_29,Spinning_29,Spinning_29|Spinning,8R1MfXoI3mo,0-6/14-21/28-43/1.10-1.18,0,4,1
+v_Spinning_29_part4.mp4,Spinning,Spinning_29,Spinning_29,Spinning_29|Spinning,8R1MfXoI3mo,0-6/14-21/28-43/1.10-1.18,0,4,1
+v_Spinning_30_part1.mp4,Spinning,Spinning_30,Spinning_30,Spinning_30|Spinning,2uf_A92mqtA,2-12,2,4,4
+v_Spinning_31_part1.mp4,Spinning,Spinning_31,Spinning_31,Spinning_31|Spinning,HNBXh63INrA,2-7,1,3,1
+v_Spinning_32_part1_slice1.mp4,Spinning,Spinning_32,Spinning_32,Spinning_32|Spinning,gbwXCi4YizE,1-25,4,2,2
+v_Spinning_32_part1_slice2.mp4,Spinning,Spinning_32,Spinning_32,Spinning_32|Spinning,gbwXCi4YizE,1-25,4,2,2
+v_Spinning_33_part1.mp4,Spinning,Spinning_33,Spinning_33,Spinning_33|Spinning,JJApKZgfSb8,0-10,3,4,0
+v_Spinning_37_part1.mp4,Spinning,Spinning_37,Spinning_37,Spinning_37|Spinning,9V7XTA6ysgI,0-9 / 11-36,3,0,1
+v_Spinning_37_part2_slice1.mp4,Spinning,Spinning_37,Spinning_37,Spinning_37|Spinning,9V7XTA6ysgI,0-9 / 11-36,3,0,1
+v_Spinning_37_part2_slice2.mp4,Spinning,Spinning_37,Spinning_37,Spinning_37|Spinning,9V7XTA6ysgI,0-9 / 11-36,3,0,1
+v_Spinning_39_part1.mp4,Spinning,Spinning_39,Spinning_39,Spinning_39|Spinning,-hSduu8zDzI,0-12,4,1,2
+v_Spinning_40_part1_slice1.mp4,Spinning,Spinning_40,Spinning_40,Spinning_40|Spinning,qpD2tWn7RlI,0-1.09/1.24-1.33/1.36-2.16,1,0,1
+v_Spinning_40_part1_slice2.mp4,Spinning,Spinning_40,Spinning_40,Spinning_40|Spinning,qpD2tWn7RlI,0-1.09/1.24-1.33/1.36-2.16,1,0,1
+v_Spinning_40_part1_slice3.mp4,Spinning,Spinning_40,Spinning_40,Spinning_40|Spinning,qpD2tWn7RlI,0-1.09/1.24-1.33/1.36-2.16,1,0,1
+v_Spinning_40_part1_slice4.mp4,Spinning,Spinning_40,Spinning_40,Spinning_40|Spinning,qpD2tWn7RlI,0-1.09/1.24-1.33/1.36-2.16,1,0,1
+v_Spinning_40_part1_slice5.mp4,Spinning,Spinning_40,Spinning_40,Spinning_40|Spinning,qpD2tWn7RlI,0-1.09/1.24-1.33/1.36-2.16,1,0,1
+v_Spinning_40_part1_slice6.mp4,Spinning,Spinning_40,Spinning_40,Spinning_40|Spinning,qpD2tWn7RlI,0-1.09/1.24-1.33/1.36-2.16,1,0,1
+v_Spinning_40_part2.mp4,Spinning,Spinning_40,Spinning_40,Spinning_40|Spinning,qpD2tWn7RlI,0-1.09/1.24-1.33/1.36-2.16,1,0,1
+v_Spinning_40_part3_slice1.mp4,Spinning,Spinning_40,Spinning_40,Spinning_40|Spinning,qpD2tWn7RlI,0-1.09/1.24-1.33/1.36-2.16,1,0,1
+v_Spinning_40_part3_slice2.mp4,Spinning,Spinning_40,Spinning_40,Spinning_40|Spinning,qpD2tWn7RlI,0-1.09/1.24-1.33/1.36-2.16,1,0,1
+v_Spinning_40_part3_slice3.mp4,Spinning,Spinning_40,Spinning_40,Spinning_40|Spinning,qpD2tWn7RlI,0-1.09/1.24-1.33/1.36-2.16,1,0,1
+v_Spinning_40_part3_slice4.mp4,Spinning,Spinning_40,Spinning_40,Spinning_40|Spinning,qpD2tWn7RlI,0-1.09/1.24-1.33/1.36-2.16,1,0,1
+v_Spinning_41_part1.mp4,Spinning,Spinning_41,Spinning_41,Spinning_41|Spinning,-Vh5_68U0Ic,0-7/12-43,2,2,0
+v_Spinning_41_part2_slice1.mp4,Spinning,Spinning_41,Spinning_41,Spinning_41|Spinning,-Vh5_68U0Ic,0-7/12-43,2,2,0
+v_Spinning_41_part2_slice2.mp4,Spinning,Spinning_41,Spinning_41,Spinning_41|Spinning,-Vh5_68U0Ic,0-7/12-43,2,2,0
+v_Spinning_41_part2_slice3.mp4,Spinning,Spinning_41,Spinning_41,Spinning_41|Spinning,-Vh5_68U0Ic,0-7/12-43,2,2,0
+v_Spinning_42_part1_slice1.mp4,Spinning,Spinning_42,Spinning_42,Spinning_42|Spinning,5QRhrgYGPF4,2-30,0,1,3
+v_Spinning_42_part1_slice2.mp4,Spinning,Spinning_42,Spinning_42,Spinning_42|Spinning,5QRhrgYGPF4,2-30,0,1,3
+v_Spinning_43_part1.mp4,Spinning,Spinning_43,Spinning_43,Spinning_43|Spinning,Q2sahz_GDtw,19-22,0,3,3
+v_Spinning_44_part1_slice1.mp4,Spinning,Spinning_44,Spinning_44,Spinning_44|Spinning,a5xR1xoUwTs,0-35/37-1.25,3,3,4
+v_Spinning_44_part1_slice2.mp4,Spinning,Spinning_44,Spinning_44,Spinning_44|Spinning,a5xR1xoUwTs,0-35/37-1.25,3,3,4
+v_Spinning_44_part1_slice3.mp4,Spinning,Spinning_44,Spinning_44,Spinning_44|Spinning,a5xR1xoUwTs,0-35/37-1.25,3,3,4
+v_Spinning_44_part2_slice1.mp4,Spinning,Spinning_44,Spinning_44,Spinning_44|Spinning,a5xR1xoUwTs,0-35/37-1.25,3,3,4
+v_Spinning_44_part2_slice2.mp4,Spinning,Spinning_44,Spinning_44,Spinning_44|Spinning,a5xR1xoUwTs,0-35/37-1.25,3,3,4
+v_Spinning_44_part2_slice3.mp4,Spinning,Spinning_44,Spinning_44,Spinning_44|Spinning,a5xR1xoUwTs,0-35/37-1.25,3,3,4
+v_Spinning_44_part2_slice4.mp4,Spinning,Spinning_44,Spinning_44,Spinning_44|Spinning,a5xR1xoUwTs,0-35/37-1.25,3,3,4
+v_Spinning_46_part1.mp4,Spinning,Spinning_46,Spinning_46,Spinning_46|Spinning,wInXPVQ47Xk,3-10 / 20-24,3,2,3
+v_Spinning_46_part2.mp4,Spinning,Spinning_46,Spinning_46,Spinning_46|Spinning,wInXPVQ47Xk,3-10 / 20-24,3,2,3
+v_Spinning_47_part1_slice1.mp4,Spinning,Spinning_47,Spinning_47,Spinning_47|Spinning,Zin3m0wXkXw,0-41,1,0,4
+v_Spinning_47_part1_slice2.mp4,Spinning,Spinning_47,Spinning_47,Spinning_47|Spinning,Zin3m0wXkXw,0-41,1,0,4
+v_Spinning_47_part1_slice3.mp4,Spinning,Spinning_47,Spinning_47,Spinning_47|Spinning,Zin3m0wXkXw,0-41,1,0,4
+v_Spinning_47_part1_slice4.mp4,Spinning,Spinning_47,Spinning_47,Spinning_47|Spinning,Zin3m0wXkXw,0-41,1,0,4
+v_Spinning_48_part1.mp4,Spinning,Spinning_48,Spinning_48,Spinning_48|Spinning,68-hRQY4eek,0-3/7-14/20-27/1.23-1.32,4,4,4
+v_Spinning_48_part2.mp4,Spinning,Spinning_48,Spinning_48,Spinning_48|Spinning,68-hRQY4eek,0-3/7-14/20-27/1.23-1.32,4,4,4
+v_Spinning_48_part3.mp4,Spinning,Spinning_48,Spinning_48,Spinning_48|Spinning,68-hRQY4eek,0-3/7-14/20-27/1.23-1.32,4,4,4
+v_Spinning_48_part4.mp4,Spinning,Spinning_48,Spinning_48,Spinning_48|Spinning,68-hRQY4eek,0-3/7-14/20-27/1.23-1.32,4,4,4
+v_Spinning_49_part1.mp4,Spinning,Spinning_49,Spinning_49,Spinning_49|Spinning,dygDLE1eAZc,3-7/15-29,0,1,3
+v_Spinning_49_part2.mp4,Spinning,Spinning_49,Spinning_49,Spinning_49|Spinning,dygDLE1eAZc,3-7/15-29,0,1,3
+v_Spinning_51_part1.mp4,Spinning,Spinning_51,Spinning_51,Spinning_51|Spinning,RUm6EftQnLY,0-5,1,2,2
+v_Spinning_52_part1.mp4,Spinning,Spinning_52,Spinning_52,Spinning_52|Spinning,lPIVQaUtF0U,3-14/16-21/25-36/39-54/1.05-1.20,3,3,1
+v_Spinning_52_part2.mp4,Spinning,Spinning_52,Spinning_52,Spinning_52|Spinning,lPIVQaUtF0U,3-14/16-21/25-36/39-54/1.05-1.20,3,3,1
+v_Spinning_52_part3.mp4,Spinning,Spinning_52,Spinning_52,Spinning_52|Spinning,lPIVQaUtF0U,3-14/16-21/25-36/39-54/1.05-1.20,3,3,1
+v_Spinning_52_part4.mp4,Spinning,Spinning_52,Spinning_52,Spinning_52|Spinning,lPIVQaUtF0U,3-14/16-21/25-36/39-54/1.05-1.20,3,3,1
+v_Spinning_52_part5.mp4,Spinning,Spinning_52,Spinning_52,Spinning_52|Spinning,lPIVQaUtF0U,3-14/16-21/25-36/39-54/1.05-1.20,3,3,1
+v_Spinning_54_part1.mp4,Spinning,Spinning_54,Spinning_54,Spinning_54|Spinning,BpP916oG4BU,2-11 / 30-36/48-59,2,4,0
+v_Spinning_54_part2.mp4,Spinning,Spinning_54,Spinning_54,Spinning_54|Spinning,BpP916oG4BU,2-11 / 30-36/48-59,2,4,0
+v_Spinning_54_part3.mp4,Spinning,Spinning_54,Spinning_54,Spinning_54|Spinning,BpP916oG4BU,2-11 / 30-36/48-59,2,4,0
+v_Spinning_55_part1.mp4,Spinning,Spinning_55,Spinning_55,Spinning_55|Spinning,_ozb-jyjHx8,0-13 / 35-40 / 44-51,2,0,1
+v_Spinning_55_part2.mp4,Spinning,Spinning_55,Spinning_55,Spinning_55|Spinning,_ozb-jyjHx8,0-13 / 35-40 / 44-51,2,0,1
+v_Spinning_55_part3.mp4,Spinning,Spinning_55,Spinning_55,Spinning_55|Spinning,_ozb-jyjHx8,0-13 / 35-40 / 44-51,2,0,1
+v_Spinning_57_part1.mp4,Spinning,Spinning_57,Spinning_57,Spinning_57|Spinning,G-OAHRX24z8,12-24 / 33-40 /  48-55,1,2,2
+v_Spinning_57_part2.mp4,Spinning,Spinning_57,Spinning_57,Spinning_57|Spinning,G-OAHRX24z8,12-24 / 33-40 /  48-55,1,2,2
+v_Spinning_57_part3.mp4,Spinning,Spinning_57,Spinning_57,Spinning_57|Spinning,G-OAHRX24z8,12-24 / 33-40 /  48-55,1,2,2
+v_Spinning_58_part1.mp4,Spinning,Spinning_58,Spinning_58,Spinning_58|Spinning,pZcLBTqNfQI,0-4,4,1,2
+v_Spinning_59_part1.mp4,Spinning,Spinning_59,Spinning_59,Spinning_59|Spinning,EAuqFS3FrJA,0-10 / 25-1.28 / 1.35-2.0 / 2.15-2.19,1,2,0
+v_Spinning_59_part2_slice1.mp4,Spinning,Spinning_59,Spinning_59,Spinning_59|Spinning,EAuqFS3FrJA,0-10 / 25-1.28 / 1.35-2.0 / 2.15-2.19,1,2,0
+v_Spinning_59_part2_slice2.mp4,Spinning,Spinning_59,Spinning_59,Spinning_59|Spinning,EAuqFS3FrJA,0-10 / 25-1.28 / 1.35-2.0 / 2.15-2.19,1,2,0
+v_Spinning_59_part2_slice3.mp4,Spinning,Spinning_59,Spinning_59,Spinning_59|Spinning,EAuqFS3FrJA,0-10 / 25-1.28 / 1.35-2.0 / 2.15-2.19,1,2,0
+v_Spinning_59_part2_slice4.mp4,Spinning,Spinning_59,Spinning_59,Spinning_59|Spinning,EAuqFS3FrJA,0-10 / 25-1.28 / 1.35-2.0 / 2.15-2.19,1,2,0
+v_Spinning_59_part2_slice5.mp4,Spinning,Spinning_59,Spinning_59,Spinning_59|Spinning,EAuqFS3FrJA,0-10 / 25-1.28 / 1.35-2.0 / 2.15-2.19,1,2,0
+v_Spinning_59_part2_slice6.mp4,Spinning,Spinning_59,Spinning_59,Spinning_59|Spinning,EAuqFS3FrJA,0-10 / 25-1.28 / 1.35-2.0 / 2.15-2.19,1,2,0
+v_Spinning_59_part3_slice1.mp4,Spinning,Spinning_59,Spinning_59,Spinning_59|Spinning,EAuqFS3FrJA,0-10 / 25-1.28 / 1.35-2.0 / 2.15-2.19,1,2,0
+v_Spinning_59_part3_slice2.mp4,Spinning,Spinning_59,Spinning_59,Spinning_59|Spinning,EAuqFS3FrJA,0-10 / 25-1.28 / 1.35-2.0 / 2.15-2.19,1,2,0
+v_Spinning_59_part4.mp4,Spinning,Spinning_59,Spinning_59,Spinning_59|Spinning,EAuqFS3FrJA,0-10 / 25-1.28 / 1.35-2.0 / 2.15-2.19,1,2,0
+v_Spinning_60_part1.mp4,Spinning,Spinning_60,Spinning_60,Spinning_60|Spinning,GCcJWyoGoMY,5-12,2,4,4
+v_Spinning_61_part1.mp4,Spinning,Spinning_61,Spinning_61,Spinning_61|Spinning,6bPSthjAU4c,10-23,1,1,1
+v_Spinning_62_part1.mp4,Spinning,Spinning_62,Spinning_62,Spinning_62|Spinning,vrFzLP61mt4,10-12 / 20-29,0,0,0
+v_Spinning_62_part2.mp4,Spinning,Spinning_62,Spinning_62,Spinning_62|Spinning,vrFzLP61mt4,10-12 / 20-29,0,0,0

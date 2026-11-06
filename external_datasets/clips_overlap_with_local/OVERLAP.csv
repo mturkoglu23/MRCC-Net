@@ -1,0 +1,6 @@
+new_clip,matching_local_clip,hash_distance,note
+v_ArmFlapping_P16_part1.mp4,dataset/esbd/v_ArmFlapping_35_part1.mp4,0.051,same source video
+v_HeadBanging_P25_part1.mp4,dataset/esbd/v_HeadBanging_48_part1.mp4,0.062,same source video
+v_Spinning_W17_part1.mp4,dataset/esbd/v_Spinning_32_part1_slice1.mp4,0.086,same source video
+v_ArmFlapping_P07_part1-3.mp4,dataset/esbd/v_ArmFlapping_44_part1-2.mp4,0.094,same source video (all parts moved)
+v_Spinning_P33_part1-2.mp4,dataset/esbd/v_Spinning_28_part1_slice1-2.mp4,0.209,same source video (visually confirmed)

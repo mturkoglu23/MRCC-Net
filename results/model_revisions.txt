@@ -1,0 +1,8 @@
+MCG-NJU/videomae-base-finetuned-kinetics 488eb9a0565f257b32866000305c8178965eb9f6
+MCG-NJU/videomae-huge-finetuned-kinetics aa4323bb447450757027054c0e35cf78152e2ae3
+MCG-NJU/videomae-large-finetuned-kinetics 0f6adcd5f6902900aa0281f9daacfe52bb3c4ad4
+facebook/dinov2-base f9e44c814b77203eaa57a6bdbbd535f21ede1415
+facebook/vjepa2-vitg-fpc64-256 875c192b7b704b87d1e1d99345769632dd5f739a
+facebook/vjepa2-vitl-fpc16-256-ssv2 4aa02df83918538fc21cfaf576382fa20e489a80
+microsoft/xclip-base-patch16-kinetics-600 a43d326f011d51837c6271ef07ac17579100d112
+67fda45f349142193129dabaf530cda9 *D:/otizm_work/weights/yolo11x-pose.pt

@@ -1,0 +1,8 @@
+component,params_M,trainable_M,sec_per_clip,train_s_full_esbd,mean_clip_seconds
+YOLO11x-pose (child tracking),58.798636,0.0,0.8480282454455103,,
+VideoMAE-L encoder (frozen),303.860736,0.0,,,
+V-JEPA 2-L encoder + attentive pooler (frozen),353.23,0.0,,,
+"8-stream feature extraction (both encoders, 2 views, 2 flips)",,,7.237031318194402,,
+video decoding,,,0.6657932727195491,,
+logistic regression (trained),0.032772,0.032772,0.000316540999338,0.4274977999739349,
+MRCC-Net total,715.922144,0.032772,8.7511693773588,0.4274977999739349,6.068181818181818

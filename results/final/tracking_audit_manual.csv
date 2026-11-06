@@ -1,0 +1,18 @@
+sheet_idx,dataset,clip,verdict,note
+46,esbd,v_Spinning_33_part1.mp4,wrong,drifts to a toy
+59,esbd,v_Spinning_41_part2_slice3.mp4,wrong,adult on sofa
+61,esbd,v_Spinning_42_part1_slice2.mp4,wrong,other child
+70,esbd,v_Spinning_48_part1.mp4,wrong,other child
+83,esbd,v_Spinning_57_part2.mp4,wrong,adult legs
+84,esbd,v_Spinning_57_part3.mp4,wrong,adult legs
+95,esbd,v_Spinning_62_part1.mp4,wrong,older person in yellow
+96,esbd,v_Spinning_62_part2.mp4,wrong,older person in yellow
+98,ssbd,v_ArmFlapping_03_part1.mp4,wrong,adult
+112,ssbd,v_ArmFlapping_21_part1.mp4,wrong,adult in crowd
+114,ssbd,v_ArmFlapping_21_part3.mp4,wrong,adult walking by
+71,esbd,v_Spinning_48_part2.mp4,partial,1 of 3 frames
+86,esbd,v_Spinning_59_part2_slice1.mp4,partial,1 of 3 frames
+107,ssbd,v_ArmFlapping_14_part2.mp4,partial,1 of 3 frames
+116,ssbd,v_HeadBanging_01_part1.mp4,partial,1 of 3 frames (adult hand)
+117,ssbd,v_HeadBanging_01_part2.mp4,partial,1 of 3 frames
+121,ssbd,v_HeadBanging_04_part2.mp4,partial,1 of 3 frames

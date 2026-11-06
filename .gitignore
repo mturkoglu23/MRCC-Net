@@ -1,0 +1,15 @@
+# videos and large derived data are not redistributed
+*.mp4
+*.avi
+*.mov
+dataset/esbd/
+dataset/ssbd/
+external_datasets/clips/
+external_datasets/raw_videos/
+features/
+weights/
+*.pt
+*.pth
+__pycache__/
+*.pyc
+venv/
