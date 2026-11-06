@@ -2,7 +2,7 @@
 
 This repository contains the code, splits, audit files, and out-of-fold predictions for the manuscript
 
-> *A Leakage-Aware Evaluation of Video-Based Recognition of Stereotypical Behaviors in Autism Spectrum Disorder Using Multi-Rate, Child-Centric Fusion of Video Foundation Models* (submitted to the *Journal of Imaging Informatics in Medicine*).
+> *Leakage-Aware Recognition of Stereotypical Behaviors in Autism Using Multi-Rate Child-Centric Fusion of Video Foundation Models* (submitted to the *Journal of Imaging Informatics in Medicine*).
 
 ## Method in brief
 
