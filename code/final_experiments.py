@@ -1,4 +1,5 @@
-"""Final, pre-registered experiment set for the paper (protocol in PROTOCOL.md).
+"""Final experiment set for the paper. The MRCC-Net configuration and C were fixed in the design phase on P1;
+the cross-dataset and external tests were run afterwards without changing the method (see README).
 
 Proposed model: MRCC-Net (Multi-Rate Child-Centric two-backbone fusion)
   streams = VideoMAE-L (K400) at 4/8/16 fps  x {full, child-crop}
@@ -12,7 +13,8 @@ Outputs (results/final/):
   ablation.csv            component ablation (grouped + random)
   per_class.csv           per-class P/R/F1 of the proposed model
   confusion_<ds>_<proto>.csv
-  significance.csv        proposed vs. baselines (McNemar on pooled clips, video-cluster bootstrap CI)
+  significance.csv        legacy McNemar tests on pooled clips; NOT used in the paper, which reports the
+                          source-group-level tests of stats_cluster.py (significance_cluster.csv)
   leakage.csv             random - grouped gap per model
 """
 import json

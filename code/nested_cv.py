@@ -1,11 +1,12 @@
 """Nested, source-grouped cross-validation of the whole model-selection procedure.
 
 Outer loop: the fixed P1 splits (5 folds x 3 repeats). Inner loop: StratifiedGroupKFold(4)
-on the outer training part only. The candidate space is everything that was compared
+on the outer training part only. The candidate space is the 10 configurations compared
 while designing MRCC-Net: 4 single-backbone probes + 3 multi-stream VideoMAE-L variants + 3 two-backbone fusions
-(eval_compact.CONFIGS) x 5 regularisation strengths. The inner winner is refit on the
+(CONFIGS below; late fusion and learned stacking are not included) x 5 regularisation strengths. The inner winner is refit on the
 outer training part and scored once on the outer test fold, so the outer estimate is
-free of selection bias. Outputs results/final/nested_cv.csv and nested_cv_selection.csv.
+not selected on the test folds. It is not free of all design bias, because the candidate set itself
+was defined on the same data. Outputs results/final/nested_cv.csv and nested_cv_selection.csv.
 """
 import json
 from collections import Counter

@@ -1,6 +1,6 @@
-"""Evaluate v2 descriptors and the proposed MRCC-Fusion model.
+"""Evaluate v2 descriptors and the proposed MRCC-Net model (earlier working name: MRCC-Fusion).
 
-MRCC-Fusion (Multi-Rate, Child-Centric foundation-model Fusion):
+MRCC-Net (Multi-Rate Child-Centric Network):
   1. For every (backbone, temporal rate, view) stream, a clip descriptor is the
      mean of window embeddings over time and over original/flipped video.
   2. One L2-regularised logistic model per stream ("experts").
@@ -11,7 +11,7 @@ MRCC-Fusion (Multi-Rate, Child-Centric foundation-model Fusion):
      fitted by minimising log-loss of the weighted mean probability.
 
 All numbers are pooled out-of-fold predictions under the outer protocol
-(grouped = leakage-free, random = literature-comparable), 3 repeats.
+(grouped = source-grouped P1, random = literature-comparable P2), 3 repeats.
 """
 import argparse
 import json

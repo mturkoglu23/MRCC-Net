@@ -1,8 +1,8 @@
 """Create evaluation splits.
 
-Protocol A (primary, leakage-free): StratifiedGroupKFold, groups = source video,
+Protocol A (P1, primary, source-grouped): StratifiedGroupKFold, groups = source group (after merging linked recordings),
 5 folds x 3 repeats.
-Protocol B (literature-comparable, leaky): StratifiedKFold over clips,
+Protocol B (P2, literature-comparable): StratifiedKFold over clips,
 5 folds x 3 repeats. Clips of one source video can fall on both sides.
 """
 import json

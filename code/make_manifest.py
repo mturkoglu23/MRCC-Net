@@ -1,7 +1,7 @@
 """Clip manifest: clip, class, raw source id, merged group, evaluation unit and P1 fold per repeat.
 
 Each clip is also linked to its row in the segment annotation sheet (dataset/{ds}.xlsx): YouTube id
-and the annotated intervals. Bölüm 3 / Tablo 1 / Bölüm 4.6 counts are read from this file. Outputs
+and the annotated intervals. The dataset counts reported in the paper (Table 1) are read from this file. Outputs
 results/final/manifest_{ds}.csv and manifest_counts.csv.
 """
 import json
